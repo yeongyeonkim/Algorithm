@@ -1,4 +1,4 @@
-package a0814
+package a0814;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
